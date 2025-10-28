@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "project-1",
+      "description": "A high-altitude glider model in flight",
+      "imageUrl": "https://images.unsplash.com/photo-1750923042273-e28556621528?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxnbGlkZXIlMjBmbGlnaHR8ZW58MHx8fHwxNzYxNTgwMTE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "glider flight"
+    },
+    {
+      "id": "project-2",
+      "description": "A quadcopter drone hovering",
+      "imageUrl": "https://images.unsplash.com/photo-1629988804949-870218cc412f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkcm9uZSUyMGhvdmVyfGVufDB8fHx8MTc2MTY2NDg3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "drone hover"
+    },
+    {
+      "id": "project-3",
+      "description": "A rocket model on a launchpad",
+      "imageUrl": "https://images.unsplash.com/photo-1634175734723-4656b7a5ffd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxyb2NrZXQlMjBsYXVuY2hwYWR8ZW58MHx8fHwxNzYxNjY0ODc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rocket launchpad"
+    },
+    {
+      "id": "team-1",
+      "description": "Profile picture of a person",
+      "imageUrl": "https://i.postimg.cc/sDGpRF6Z/ukn.jpg",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "team-2",
+      "description": "Profile picture of a person",
+      "imageUrl": "https://i.postimg.cc/sDGpRF6Z/ukn.jpg",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "team-3",
+      "description": "Profile picture of a person",
+      "imageUrl": "https://i.postimg.cc/sDGpRF6Z/ukn.jpg",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "team-4",
+      "description": "Profile picture of a person",
+      "imageUrl": "https://i.postimg.cc/sDGpRF6Z/ukn.jpg",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "work-rc-plane",
+      "description": "An RC plane flying",
+      "imageUrl": "https://images.unsplash.com/photo-1715288895378-8ae40c1645d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxSQyUyMHBsYW5lfGVufDB8fHx8MTc2MTY2NTM1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "RC plane"
+    },
+    {
+      "id": "work-hovercraft",
+      "description": "A hovercraft on water",
+      "imageUrl": "https://i.postimg.cc/GpmwHjsF/hovercraft.jpg",
+      "imageHint": "futuristic hovercraft"
+    },
+    {
+      "id": "work-drone",
+      "description": "A drone in the sky",
+      "imageUrl": "https://images.unsplash.com/photo-1612491217995-38f6335daa6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkcm9uZSUyMHNreXxlbnwwfHx8fDE3NjE2NjUzNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "drone sky"
+    },
+    {
+      "id": "work-workshop",
+      "description": "An engineering workshop",
+      "imageUrl": "https://images.unsplash.com/photo-1580835908509-7544f346082e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZW5naW5lZXJpbmclMjB3b3Jrc2hvcHxlbnwwfHx8fDE3NjE2NjUzNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "engineering workshop"
+    }
+  ]
+}
